@@ -14,7 +14,7 @@ git clone https://github.com/NolanBerg/React-Password-Generator.git
 ```
 ### 2. Cd into directory
 ```sh
-cd React-Password-Generator.git
+cd React-Password-Generator
 ```
 ### 3. Run npm install
 ```sh
